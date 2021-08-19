@@ -1,6 +1,6 @@
 pip==19.0.3
 setuptools==44.1.1
-wheel==0.22.1
+wheel==0.22.0
 Flask==1.1.1
 imutils==0.5.3
 Keras==2.4.0
