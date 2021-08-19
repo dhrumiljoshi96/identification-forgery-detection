@@ -1,11 +1,1 @@
-pip==19.0.3
-setuptools==44.1.1
-wheel==0.26.0
-h5py==2.10.0
-numpy==1.16.0
-Flask==1.1.1
-imutils==0.5.3
-Keras==2.4.0
-opencv-python==4.4.0.46
-Pillow==8.0.1
-scikit-image==0.17.2
+
