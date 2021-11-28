@@ -1,4 +1,9 @@
-#Identification Forgery Detection
+#IDENTIFICATION FORGERY DETECTION
+
+## Context
+The Forgery Detection algorithm works on Computer Vision principle. Steps involve uploading an image for detection, change the size, format
+and shape according to the original image followed by gray‑scale conversion. Next would be finding the similarity index, compare the images
+and check the similarity score to decide tampering/forgery.
 
 Step to run application:
 Step 1:	Clone The Project
