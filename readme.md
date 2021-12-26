@@ -31,11 +31,11 @@ Step 7: sample_data has images on which identification fraud detection can be te
 
         Original Image 
     
-        ![original](https://user-images.githubusercontent.com/20886645/147409754-9236ce6d-9414-4b07-b73f-b275317c9dc9.jpeg)
+        <img width="1321" alt="Screenshot 2021-11-28 at 11 30 21 PM" src="https://user-images.githubusercontent.com/20886645/147409754-9236ce6d-9414-4b07-b73f-b275317c9dc9.jpeg">
        
         Fraudulent Image
         
-        ![143780611-939d39b5-e891-46eb-af3f-6f3e3ebc5dd5](https://user-images.githubusercontent.com/20886645/147409759-982248af-510f-450a-b9b8-8b1f06f64609.jpeg)
+        <img width="1321" alt="Screenshot 2021-11-28 at 11 30 21 PM" src="https://user-images.githubusercontent.com/20886645/147409759-982248af-510f-450a-b9b8-8b1f06f64609.jpeg">
 
         
 ## Application is deployed to Heroku Cloud Platform 
