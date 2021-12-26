@@ -24,7 +24,6 @@ Step 7: sample_data has images on which identification fraud detection can be te
         
 ## Simulation
         
- 1) User Interface
         <img width="1321" alt="Screenshot 2021-11-28 at 11 30 21 PM" src="https://user-images.githubusercontent.com/20886645/143780492-e1d14470-31bb-4ff7-be66-0c0b70de1e47.png">
         
         ![Screenshot 2021-12-26 at 7 42 58 PM](https://user-images.githubusercontent.com/20886645/147410801-685a0d85-22ab-4baf-a6ee-eadb330d0b4f.png)
