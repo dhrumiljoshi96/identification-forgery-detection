@@ -26,13 +26,6 @@ Step 7: sample_data has images on which identification fraud detection can be te
         
  1) User Interface
         <img width="1321" alt="Screenshot 2021-11-28 at 11 30 21 PM" src="https://user-images.githubusercontent.com/20886645/143780492-e1d14470-31bb-4ff7-be66-0c0b70de1e47.png">
- 
- 2) Fraud is detected with respect to a sample PAN Card identification image
-    
-        <img width="1321" src="https://user-images.githubusercontent.com/20886645/147409754-9236ce6d-9414-4b07-b73f-b275317c9dc9.jpeg">
-        
-        <img width="1321" src="https://user-images.githubusercontent.com/20886645/147409759-982248af-510f-450a-b9b8-8b1f06f64609.jpeg">
-
         
 ## Application is deployed to Heroku Cloud Platform 
 
