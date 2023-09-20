@@ -33,8 +33,3 @@ Step 7: sample_data has images on which identification fraud detection can be te
 ![Screenshot 2021-12-26 at 7 42 58 PM](https://user-images.githubusercontent.com/20886645/147410940-eadcae32-1add-4d1c-9aaa-2285ecfc20eb.png)
 
         
-        
-     
-## Application is deployed to Heroku Cloud Platform 
-
-URL : https://identification-fraud-detection.herokuapp.com/ 
